@@ -1,2 +1,5 @@
 # ECE644-truthworthy-computing
-该项目位为ECE644可信计算的结课项目，以论文的形式研究探讨了哈希长度拓展攻击
+该项目位为ECE644可信计算的结课项目，以论文的形式研究探讨了哈希长度拓展攻击，该论文应包括absract，
+introduction，attack/vulnerability details，summary，references总共5个部分，论文格式应为IEEE 会议论文模板。
+在该项目中，我详细讨论了哈希函数是什么，哈希长度拓展攻击的背景，攻击原理，并以一个使用MD5加密算法的系统为
+例，详细展示了哈希长度拓展攻击在不知道密文的情况下，如何破解MD5算法并得到拓展密文的哈希值。
