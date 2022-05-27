@@ -1,0 +1,2 @@
+# ECE644-truthworthy-computing
+该项目位为ECE644可信计算的结课项目，以论文的形式研究探讨了哈希长度拓展攻击
